@@ -1,4 +1,4 @@
-## Oi! Eu sou o Marcos Daniel, Cientista de Dados!
+## Oi! Eu sou o Marcos Daniel!
 <div align="center">
   <a href="https://github.com/marcos9401">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos9401&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
